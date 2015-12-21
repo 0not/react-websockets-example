@@ -1,0 +1,6 @@
+{
+    "name": "Person A. Peopleson",
+    "date": "2015-12-19T19:00:23.904Z",
+    "array_thing": [2, 5, 2, 6, 20],
+    "other_thing": "Yo ho, yo ho, a pirate's life for me!"
+}
