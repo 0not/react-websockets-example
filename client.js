@@ -1,6 +1,6 @@
 // Browserify command to build client.js:
 //     browserify -t [ babelify --presets [ react ] ] client.js -o bundle.js
-var server    = 'bendito',
+var server    = 'localhost',
     port      = '8080',
     WebSocket = require('ws'),
     ws        = new WebSocket('ws://' + server + ':' + port),
